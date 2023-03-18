@@ -1,3 +1,4 @@
 continous integration
 continous deployment
 continous delivery
+continous management
