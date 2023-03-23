@@ -3,3 +3,4 @@ continous deployment
 continous delivery
 continous management
 control
+deployment
